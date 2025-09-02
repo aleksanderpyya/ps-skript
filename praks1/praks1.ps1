@@ -10,6 +10,7 @@ $array3 += $array1[0] + $array2[0]
 $array3 += $array1[1] + $array2[1]
 $array3 += $array1[2] + $array2[2]
 
+
 ## Näeme lõpu vastust.
 Write-Host "Array1: $array1"
 Write-Host "Array2: $array2"
